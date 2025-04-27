@@ -7,6 +7,7 @@ p{
   text-align: center;
   background-color: beige;
   margin: auto;
+  width: 50%;
 }
 nav{
   position: sticky;
@@ -19,7 +20,7 @@ nav ul{
   list-style: none;
   display: flex;
   justify-content: space-around;
-  padding: 12px 0;
+  padding: 12px 0 ;
   margin: 0;
   font-family: Verdana;
   background-color: #444;
